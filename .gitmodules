@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Gaurav-9810/loginFrontend.git
+[submodule "api"]
+	path = api
+	url = https://github.com/Gaurav-9810/loginBackend.git
